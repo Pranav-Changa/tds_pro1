@@ -9,4 +9,7 @@ venv/
 .env
 preprocess.py
 *.pyc
-.DS_Store
+.DS_Store.env
+preprocess.py
+downloaded_threads/
+markdown_files/
